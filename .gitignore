@@ -205,5 +205,10 @@ spark-warehouse/
 # For SBT
 .jvmopts
 
+# Jupyter
+*.ipynb
+# Spark
+*.crc
+
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,spark
