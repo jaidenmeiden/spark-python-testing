@@ -206,7 +206,7 @@ spark-warehouse/
 .jvmopts
 
 # Jupyter
-*.ipynb
+.ipynb_checkpoints/*
 # Spark
 *.crc
 
